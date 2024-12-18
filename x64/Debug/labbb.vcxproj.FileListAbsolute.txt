@@ -1,0 +1,4 @@
+D:\СИ++\labbb\x64\Debug\labbb.exe
+D:\СИ++\labbb\x64\Debug\labbb.vcxproj.CopyComplete
+D:\СИ++\labbb\x64\Debug\raylib.dll
+D:\СИ++\labbb\x64\Debug\glfw3.dll
